@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="geocode_api_key">AIzaSyC_YPIdeXZkVmtMpR9Vkl4x93gjiWthAmA</string>
+    <string name="geocode_api_url_base">https://maps.googleapis.com</string>
+    <string name="geocode_api_path">/maps/api/geocode/json?</string>
+    <string name="lat_long_params_label">latlng=</string>
+    <string name="geocode_api_key_label">&amp;key=</string>
+</resources>

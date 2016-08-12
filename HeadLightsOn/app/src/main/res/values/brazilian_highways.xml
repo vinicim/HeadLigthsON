@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="highway_names">
+        <item>BR-10</item>
+        <item>BR-20</item>
+        <item>BR-30</item>
+        <item>BR-40</item>
+        <item>BR-50</item>
+        <item>BR-60</item>
+        <item>BR-70</item>
+        <item>BR-80</item>
+        <item>BR-251</item>
+        <item>BR-479</item>
+
+        <item>DF-001 EPCT – Estrada Parque Contorno</item> <!--(seria o equivalente a um anel viário da capital)-->
+        <item>DF-002 ERN/ERS – Eixo Rodoviário Norte/Sul</item>
+        <item>DF-003 EPIA – Estrada Parque Indústria e Abastecimento</item>
+        <item>DF-004 EPNA – Estrada Parque das Nações</item>
+        <item>DF-005 EPPR – Estrada Parque Paranoá</item>
+        <item>DF-006 EPCA – Estrada Parque Centro de Atividades</item>
+        <item>DF-007 EPTT – Estrada Parque Torto</item>
+        <item>DF-008 EPUB – Estrada Parque Universidade de Brasília</item>
+        <item>DF-009 EPPN – Estrada Parque Península Norte</item>
+        <item>DF-010 EPAA – Estrada Parque Armazenagem e Abastecimento</item>
+        <item>DF-011 EPIG – Estrada Parque Indústrias Gráficas</item>
+        <item>DF-015 EPTM – Estrada Parque Tamanduá</item>
+        <item>DF-025 EPDB – Estrada Parque Dom Bosco</item>
+        <item>DF-027 EPJK – Estrada Parque Juscelino Kubitschek</item>
+        <item>DF-035 EPCV – Estrada Parque Cabeça do Veado</item>
+        <item>DF-047 EPAR – Estrada Parque Aeroporto</item>
+        <item>DF-051 EPGU – Estrada Parque Guará</item> (Asa Sul, Guará)
+        <item>DF-055 EPVB – Estrada Parque Vargem Bonita</item>
+        <item>DF-065 EPIP – Estrada Parque Ipê</item>
+        <item>DF-075 EPNB – Estrada Parque Núcleo Bandeirante</item> <!--(Taguatinga, Candangolândia, Núcleo Bandeirante, Riacho Fundo, Park Way, Arniqueiras)-->
+        <item>DF-079 EPVP – Estrada Parque Vicente Pires</item>
+        <item>DF-085 EPTG – Estrada Parque Taguatinga</item>
+        <item>DF-087 EPVL – Estrada Parque Vale</item>
+        <item>DF-095 EPCL – Estrada Parque Ceilândia</item> <!--(a Estrutural, que passa por Taguatinga, Vicente Pires, Cidade Estrutural)-->
+        <item>DF-097 EPAC – Estrada Parque Acampamento</item>
+    </string-array>
+
+</resources>
